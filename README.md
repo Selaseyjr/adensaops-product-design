@@ -10,19 +10,18 @@
 
 ## One screen. The whole operation.
 
-Quotes. Orders. Deliveries. Cash.
+A supply business runs on enquiries, orders, deliveries and cash.
 
-Rules that stop mistakes before they happen.
+AdensaOps brings them together, with rules that stop mistakes before they happen.
 
-`Sign in → Enquiry → Quote → Order → Payment → Delivery → Receipt`
+Designed in Figma. Clickable from sign-in to receipt. Sample data.
 
-> Concept design. Sample data.
+<div align="center">
 
-<table>
-<tr><td width="50%"><img src="assets/01-Cover.png" alt="Concept cover"><br><sub>Concept cover</sub></td><td width="50%"><img src="assets/02-Case-study.png" alt="Case study summary"><br><sub>Case study summary</sub></td></tr>
-<tr><td width="50%"><img src="assets/03-Dashboard.png" alt="Dashboard"><br><sub>Dashboard</sub></td><td width="50%"><img src="assets/04-Orders.png" alt="Orders"><br><sub>Orders</sub></td></tr>
-<tr><td width="50%"><img src="assets/05-Quotes.png" alt="Quotes"><br><sub>Quotes</sub></td><td width="50%"><img src="assets/06-Cashflow.png" alt="Cashflow"><br><sub>Cashflow</sub></td></tr>
-<tr><td width="50%"><img src="assets/07-Suppliers-and-prices.png" alt="Suppliers and prices"><br><sub>Suppliers and prices</sub></td></tr>
-</table>
+<img src="assets/slides.webp" alt="Slides from the Figma design" width="100%">
+
+<a href="https://selasey-gbeddy.vercel.app/gallery/adensaops.html"><img src="https://img.shields.io/badge/Click_through_the_slides-0F0D0A?style=for-the-badge" alt="Click through the slides"></a>
+
+</div>
 
 <div align="center"><sub>Design artefacts only. The demo code lives in <a href="https://github.com/Selaseyjr/adensa-ops">adensa-ops</a>.<br><a href="https://selasey-gbeddy.vercel.app">Portfolio</a> · <a href="https://www.figma.com/@selaseyjr">Figma</a></sub></div>
